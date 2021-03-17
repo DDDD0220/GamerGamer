@@ -1,2 +1,1 @@
-# crickybot.github.io
- 
+Source code for the official website for the Crikcy Discord Bot.
