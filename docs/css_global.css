@@ -130,6 +130,7 @@ ul.topnav li.right {float: right;}
 section {
   display: -webkit- flex;
   display: flex;
+  margin: 4cm;
 }
 
 article {
