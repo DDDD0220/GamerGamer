@@ -154,7 +154,7 @@ article {
   -ms-flex: 1;
   flex: 1;
   max-width: 100px;
-  background: white;
+  background: inherit
   padding: 20px;
   z-index: -1;
 }
@@ -164,7 +164,7 @@ article {
   -ms-flex: 1;
   flex: 1;
   max-width: 100px;
-  background: white;
+  background: inherit;
   padding: 20px;
   z-index: -1;
 }
