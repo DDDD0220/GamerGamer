@@ -1,1 +1,1 @@
-Source code for the official website for the Crikcy Discord Bot.
+Jo mama
