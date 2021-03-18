@@ -196,3 +196,10 @@ nav h5 {
  font-variant: small-caps;
 }
 
+.italics {
+  font-style: italic;
+}
+
+.rickroll {
+  text-decoration: none;
+}
