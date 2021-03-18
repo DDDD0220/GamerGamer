@@ -142,7 +142,10 @@ article {
  flex: 3;
  padding: 10px;
  word-break: keep-all;
- margin: 2cm;
+ margin-left: 2cm;
+ margin-right: 2cm;
+ margin-top: 1cm;
+ margin-bottom: 1cm;
 }
 
 
