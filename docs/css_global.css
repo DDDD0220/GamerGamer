@@ -135,7 +135,7 @@ section {
 article {
   line-height: 1;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  font-size: 50px;
+  font-size: larger;
   text-align: justify;
   -webkit-flex: 3;
   -ms-flex: 3;
@@ -201,5 +201,6 @@ nav h5 {
 
 .rickroll {
   text-decoration: none;
+  color: #111;
 }
 
