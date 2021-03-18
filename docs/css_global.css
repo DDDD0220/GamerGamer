@@ -5,6 +5,7 @@ head {
 
 body {
   transition: background-color .5s;
+  margin: 0;
 }
 
 .header{
@@ -140,7 +141,7 @@ article {
   -webkit-flex: 3;
   -ms-flex: 3;
   flex: 3;
-  
+  padding: 10px;
   word-break: keep-all;
   margin-left: 3cm;
   margin-right: 3cm;
