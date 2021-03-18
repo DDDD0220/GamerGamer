@@ -6,6 +6,7 @@ head {
 
 body {
  transition: background-color .5s;
+ margin: 0px;
 }
 
 .header{
@@ -136,7 +137,7 @@ article {
  line-height: 1;
  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
  font-size: larger;
- text-align: center;
+ text-align: justify;
  -webkit-flex: 3;
  -ms-flex: 3;
  flex: 3;
