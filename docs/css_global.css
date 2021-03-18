@@ -15,7 +15,7 @@ body {
   background-image: linear-gradient(to bottom right, red, yellow);
   background-size: cover;
   opacity: 0.3;
-  margin: inherit;
+  margin: 0px;
   height: 1.7cm;
   text-shadow: 2px 4px black;
 }
@@ -29,7 +29,7 @@ ul {
 
 .topnav {
   list-style-type: none;
-  margin: inherit;
+  margin: 0px;
   padding: 0px;
   overflow: hidden;
   background-color: #333;
