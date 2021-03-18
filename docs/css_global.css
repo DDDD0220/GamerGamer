@@ -15,7 +15,7 @@ body {
   background-image: linear-gradient(to bottom right, red, yellow);
   background-size: cover;
   opacity: 0.3;
-  margin: 0px;
+  margin: inherit;
   height: 1.7cm;
   text-shadow: 2px 4px black;
 }
@@ -29,7 +29,7 @@ ul {
 
 .topnav {
   list-style-type: none;
-  margin: 0px;
+  margin: inherit;
   padding: 0px;
   overflow: hidden;
   background-color: #333;
@@ -55,7 +55,7 @@ ul.topnav li a:hover {background-color: #111;}
 
 ul.topnav li.right {float: right;}
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 900px) {
   ul.topnav li.right, 
   ul.topnav li {float: none;}
 }
@@ -188,8 +188,7 @@ nav h5 {
 }
 
 .rickroll {
-  text-decoration: cyan;
-  font-weight: bolder;
-
+  text-decoration: none;
+  color: cyan;
 }
 
