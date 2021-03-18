@@ -91,8 +91,7 @@ ul.topnav li.right {float: right;}
 #main {
  transition: margin-left .5s;
  padding: 0px;
- margin: 0;
-}
+
 
 @media screen and (max-height: 500px) {
  .sidenav {padding-top: 15px;}
