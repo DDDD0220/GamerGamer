@@ -188,7 +188,8 @@ nav h5 {
 }
 
 .rickroll {
-  text-decoration: none;
-  color: cyan;
+  text-decoration: cyan;
+  font-weight: bolder;
+
 }
 
