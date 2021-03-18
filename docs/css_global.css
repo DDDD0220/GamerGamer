@@ -5,7 +5,6 @@ head {
 
 body {
   transition: background-color .5s;
-  margin: 0;
 }
 
 .header{
@@ -189,7 +188,7 @@ nav h5 {
 }
 
 .rickroll {
-  text-decoration: cyan;
+  text-decoration: blueviolet;
   color: cyan;
 }
 
