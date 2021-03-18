@@ -149,6 +149,25 @@ article {
  margin-bottom: 1cm;
 }
 
+.nav1 {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  max-width: 100px;
+  background: white;
+  padding: 20px;
+  z-index: -1;
+}
+
+.nav2 {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  max-width: 100px;
+  background: white;
+  padding: 20px;
+  z-index: -1;
+}
 
 nav ul {
  list-style-type: none;
