@@ -154,7 +154,7 @@ article {
   -ms-flex: 1;
   flex: 1;
   max-width: 100px;
-  background: inherit
+  background: inherit;
   padding: 20px;
   z-index: -1;
 }
