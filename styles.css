@@ -1,0 +1,174 @@
+.underline--magical {
+    background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+    background-repeat: no-repeat;
+    background-size: 100% 0.2em;
+    background-position: 0 88%;
+    transition: background-size 0.25s ease-in;
+}
+
+.underline--magical:hover {
+    background-size: 100% 100%;
+}
+
+body {
+  background-image: linear-gradient(to right, #fff, #e1f2ff);
+  font-family: "Ubuntu", sans-serif;
+}
+
+h1 {
+    font-size: 3rem;
+    color: rgb(8, 30, 92);
+    font-weight: bold;
+    font-family: "Ubuntu", sans-serif;
+}
+
+h2 {
+    font-size: 2rem;
+    color: rgb(8, 30, 92);
+    font-family: "Ubuntu", sans-serif;
+    /* font-size: 3.5rem; */
+    line-height: 3;
+}
+
+h3 {
+  line-height: 1.5;
+  font-family: "Ubuntu", sans-serif;
+  color: rgb(8, 30, 92);
+  font-weight: bolder;
+  padding-bottom: 2%;
+
+}
+
+h4 {
+    font-size: 3.5rem;
+    color: rgb(8, 30, 92);
+    font-family: "Abril Fatface", cursive;
+}
+
+h5 {
+    font-size: 1.5rem;
+    font-family: "Ubuntu", sans-serif;
+    color: rgb(8, 30, 92);
+    font-weight: bold;
+}
+
+#blurbs {
+    padding-top: 5%;
+    color: grey;
+    font-family: "Ubuntu", sans-serif;
+}
+
+h5 {
+    font-family: "Ubuntu", sans-serif;
+    color: rgb(8, 30, 92);
+}
+
+#title {
+    background-color: white;
+}
+
+.navbar {
+    padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+    font-family: "Ubuntu", sans-serif;
+    color: rgb(8, 30, 92);
+    font-size: 2rem;
+    text-decoration-color: rgb(8, 30, 92);
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-weight: lighter;
+    font-size: 1.2rem;
+    font-family: "Ubuntu";
+}
+
+.container-fluid {
+    padding: 4% 15%;
+}
+
+
+/* download buttons */
+
+.download-button {
+    margin: 5% 3% 5% 0%;
+}
+
+
+/*image section */
+
+.title-image {
+    width: 120%;
+}
+
+
+/* feature section */
+
+#features {
+    padding: 7% 15%;
+}
+
+#offerings {
+  padding-top: 15%;
+}
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+
+
+/* main idea section */
+
+#idea-section {
+    padding: 7% 15%;
+    text-align: center;
+    color: black;
+    font-family: "Ubuntu", sans-serif;
+}
+
+.main-idea-para {
+    font-size: 1.2rem;
+    color: rgb(112, 112, 112);
+}
+
+.image1 {
+    border-radius: 50%;
+}
+
+
+/* carousel styling */
+
+.carousel-inner {
+    text-align: center;
+    color: black;
+}
+
+
+#location-input-txt {
+  padding-top: 15%;
+}
+
+i {
+  font-size: 4rem;
+  color: #8fd3f4;
+  padding-bottom: 5%;
+}
+
+.custom-button {
+
+}
+
+/* card styling */
+
+
+/* .card-image-top {
+  object-fit: cover;
+  width: 100%;!important;
+  height: 200px;!important;
+} */
